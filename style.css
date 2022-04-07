@@ -1,5 +1,6 @@
 body {
   background-color: rgb(253, 251, 251);
+  font-family: 'Times New Roman', Times, serif
 }
 
 #cabecalho {
@@ -12,13 +13,23 @@ body {
   }
 
 #titulo {
-  margin: 10px;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 1cm;
 }
 
 #minha_foto {
   width: 100px;
-  margin-top: 70px;
+  margin-top: 100px;
   border-radius: 10%;
   padding: 2px;
   margin-left: 5px;
+}
+
+p {
+  line-height: 8px;
+}
+
+h2 {
+  color: midnightblue;
 }
