@@ -1,6 +1,6 @@
 body {
   background-color: rgb(253, 251, 251);
-  font-family: 'Times New Roman', Times, serif;
+  font-family: Georgia, Times, serif;
   margin-left: 25px;
 }
 
@@ -11,10 +11,10 @@ body {
   height: auto;
   width: 100%;
   background-color: aquamarine;
-  }
+}
 
 #titulo {
-  font-family: 'Playfair Display', serif;
+  font-family: Playfair Display, serif;
   text-align: center;
   font-size: 1cm;
 }
@@ -38,7 +38,6 @@ h2 {
 }
 
 .lado-esquerdo {
-  /* display: inline-block; */
   width: 65%;
   padding: 5px;
   text-align: justify;
@@ -47,7 +46,6 @@ h2 {
 }
 
 .lado-direito {
-  /* display:inline-block; */
   width: 25%;
   margin: 25px;
   padding: 5px;
